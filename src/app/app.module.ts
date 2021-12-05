@@ -7,6 +7,7 @@ import { NavbarComponent } from './assets/navbar/navbar.component';
 import { FooterComponent } from './assets/footer/footer.component';
 import { IndexComponent } from './assets/index/index.component';
 import { ErrorComponent } from './assets/error/error.component';
+import { HttpClientModule } from '@angular/common/http';
 // import { NgModule, CUSTOM_ELEMENTS_SCHEMA } from '@angular/core';
 import { RouterModule } from '@angular/router';
 import { GetComponent } from './modulos/clientes/get/get.component';
